@@ -6,3 +6,4 @@ CREATE TABLE schema_unimes.test_table (
     City varchar(255)
 
 );
+
